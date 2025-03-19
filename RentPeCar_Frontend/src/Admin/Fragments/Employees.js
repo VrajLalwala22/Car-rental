@@ -97,7 +97,7 @@ const Employees = () => {
       if (result.status === "success") {
         alert("Sign Up Successfully");
 
-        // go to the list of artists
+        // go to the list of artist
         history.push("/admin_dashboard");
         handleCloseRegister(true);
         window.location.reload();

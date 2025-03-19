@@ -20,23 +20,9 @@ function AboutUS() {
           </div>
         </div>
         <div class="col-md-6" data-aos="fade-up">
-          <h2 id="desc">Developers</h2>
+         
           <br />
-          <div class="container">
-            <p>
-              <i class="far fa-user"></i> Ravi Dubey
-            </p>
-            <p>
-              <i class="far fa-user"></i> Rohit Agrawal
-            </p>
-            <p>
-              <i class="far fa-user"></i> Sunil Pandhare
-            </p>
-            <p>
-              <i class="far fa-user"></i> Shubham Singh
-            </p>
-        
-          </div>
+
         </div>
       </div>
       <div class="row footer bg-light">
@@ -56,9 +42,7 @@ function AboutUS() {
             </a>
           </p>
         </div>
-        <div class="col">
-          <p class="text-center">Copyright &copy; 2023</p>
-        </div>
+
         <div class="col">
           <p class="text-center">Thank You...</p>
         </div>
