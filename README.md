@@ -30,7 +30,7 @@ This project has 3 modules - Admin, Employee, and User.
 #More features to be implemented later in this project.
 
 In this repository, three folders are present in which:-
-  #one is Backend named RentPeCar inside RentPeCar_Backend folder which is written in SpringToolSuite4
+  #one is Backend named RentPeCar inside RentPeCar_Backend folder which is written in SpringToolSuite4 and
   #the second one is Frontend folder which is written in Visual Studio Code and 
   #the third folder contains Scrrenshots of the working project RentPeCar website.
 
