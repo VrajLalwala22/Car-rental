@@ -14,7 +14,7 @@ import ListItemText from "@material-ui/core/ListItemText";
 import HomeIcon from "@material-ui/icons/Home";
 import PeopleIcon from "@material-ui/icons/People";
 import ShoppingBasketIcon from "@material-ui/icons/ShoppingBasket";
-// import DirectionsBikeIcon from "@material-ui/icons/DirectionsBike";
+// import DirctionsBikeIcon from "@material-ui/icons/DirectionsBike";
 import ExitToAppIcon from "@material-ui/icons/ExitToApp";
 
 
