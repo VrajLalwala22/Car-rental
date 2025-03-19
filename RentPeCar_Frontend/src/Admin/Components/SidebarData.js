@@ -6,7 +6,7 @@ import * as IoIcons from 'react-icons/io';
 
 export const SidebarData  = [
   {
-    title: 'PG Building',
+    title: 'PG Buildings',
     path: '/PgBuildings',
     icon: <AiIcons.AiFillHome />,
     cName: 'nav-text'
