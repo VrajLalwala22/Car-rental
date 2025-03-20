@@ -1,5 +1,5 @@
 package com.rrss.config;
-
+                   
 import java.util.Properties;
 
 import org.springframework.beans.factory.annotation.Value;
